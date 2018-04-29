@@ -12,16 +12,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DAGSort.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DAGSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DAGSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
+            <state relative-caret-position="663">
               <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DAGSortTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DAGSortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DAGSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -56,7 +56,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="332" />
     <option name="y" value="52" />
     <option name="width" value="2800" />
@@ -165,15 +165,15 @@
       <option name="presentableId" value="Default" />
       <updated>1525022775914</updated>
       <workItem from="1525022778368" duration="1355000" />
-      <workItem from="1525030882483" duration="2005000" />
+      <workItem from="1525030882483" duration="2728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3360000" />
+    <option name="totallyTimeSpent" value="4083000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1933" height="1053" extended-state="7" />
+    <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -213,17 +213,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DAGSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DAGSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAGSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
         </state>
       </provider>
     </entry>
